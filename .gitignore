@@ -1,0 +1,6 @@
+
+*.lock
+.gradle/*
+.idea/*
+app/.externalNativeBuild/*
+app/build/*
